@@ -17,8 +17,8 @@ A production-ready **Express.js proxy server** with:
 ## 📦 Installation
 
 ``` bash
-git clone <your-repo-url>
-cd <your-project>
+git clone https://github.com/varadekd/proxy-server.git
+cd proxy-server
 npm install
 ```
 
